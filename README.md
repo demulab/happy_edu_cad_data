@@ -2,6 +2,7 @@
 
 ## About Happy Edu
 Happy Edu is an open-hardware educational robot developed by the Demura Laboratory.  
+
 This repository contains STEP files for educational CAD components.
 These components are provided for reference only, so feel free to customize them to suit your own needs.
 
